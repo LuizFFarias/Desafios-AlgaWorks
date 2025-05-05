@@ -36,7 +36,6 @@ public class ImovelResidencial implements BemSeguravel{
 
     @Override
     public String descrever() {
-        //TODO descrever imovel
         return String.format("Imóvel residencial com %sm2 de área avaliado em R$%.2f", areaConstruida, valorMercado);
     }
 }

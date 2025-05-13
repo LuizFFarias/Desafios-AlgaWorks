@@ -11,6 +11,7 @@ public class Principal {
         cadastro.adicionar("Disney (10 noites)", 20_000);
         cadastro.adicionar("Natal Luz em Gramado (5 noites)", 8_500);
 
+        aasda.Pessoa pessoa;
 //        cadastro.removerPorDescricao("Disney (10 noites)");
 
 //        cadastro.ordenar();
